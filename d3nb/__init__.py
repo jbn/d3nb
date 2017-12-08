@@ -12,7 +12,7 @@ __uri__ = "https://github.com/jbn/d3js"
 __doc__ = __description__ + " <" + __uri__ + ">"
 __license__ = "MIT"
 __copyright__ = "Copyright (c) 2017 John Bjorn Nelson"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "John Bjorn Nelson"
 __email__ = "jbn@abreka.com"
 
